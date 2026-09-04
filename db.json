@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "firstName": "Ahsan",
+      "lastName": "Ali",
+      "email": "ahsan.ali@invozone.dev",
+      "password": "2AhsanAli$",
+      "role": "User",
+      "status": "Active",
+      "createdAt": "2026-09-04T16:36:14.835Z",
+      "photo": "",
+      "id": 2
+    }
+  ]
+}
