@@ -4,11 +4,15 @@ import path from "path";
 
 export default defineConfig({
   plugins: [react()],
+
+  base: "/new_user_management_system/",
+
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
     },
   },
+
   server: {
     port: 5173,
   },
